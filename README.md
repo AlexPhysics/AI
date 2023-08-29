@@ -6,6 +6,10 @@ The present work is a developed, fully functional, absolutelly free Virtual Assi
 
 It is sufficiently smart to generate reponses (the exact same way ChatGPT would do it), and the beauty of it is that ChatGPT doesn't have up-to-date data, so I mixed Bing AI for the most recent data in order to fulfill the gap.  
 
+The setup: [setup.ipynb](https://github.com/AlexPhysics/AI/blob/main/setup.ipynb).  
+
+The solution: [Jarvis.py](https://github.com/AlexPhysics/AI/blob/main/Jarvis.py).  
+
 Skills involved:
 - Backend engineering (played with API's from BING chatbot and OpenAi)
 - Text-to-Speech (real time)
