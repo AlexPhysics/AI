@@ -14,7 +14,7 @@ import speech_recognition as sr
 from EdgeGPT import Chatbot, ConversationStyle
 
 # Initialize the OpenAI API
-openai.api_key = "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"
+openai.api_key = "Insert your API here."
 
 # Create a recognizer object and wake word variables
 recognizer = sr.Recognizer()
